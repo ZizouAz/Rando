@@ -1,0 +1,31 @@
+{
+	"Fruits": {
+			"Pastèque":{
+					"quantité": 1,
+					"prix": 4.99
+				},
+			"Oranges":{
+					"quantité": 6,
+					"prix": 0.8
+				},
+			"Raisins":{
+					"quantité": 30,
+					"prix": 0.08
+				}
+	},
+
+	"Légumes": {
+			"Courgettes":{
+					"quantité": 2,
+					"prix": 1.7
+			},
+
+			"Poivrons":{
+					"quantité": 6,
+					"prix": 1.2
+			}
+	},
+
+	"Épicerie & Divers": {}
+
+}

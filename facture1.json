@@ -1,0 +1,61 @@
+{
+	"Fruits": {
+			"Pommes":{
+					"quantité": 6,
+					"prix": 0.4
+				},
+			"Bananes":{
+					"quantité": 4,
+					"prix": 0.3
+				},
+			"Fraises":{
+					"quantité": 2,
+					"prix": 3
+				},
+			"Melon":{
+					"quantité": 1,
+					"prix": 2.5
+				}
+	},
+
+	"Légumes": {
+			"Concombres":{
+					"quantité": 2,
+					"prix": 1.5
+			},
+
+			"Avocats":{
+					"quantité": 6,
+					"prix": 0.8
+			},
+
+			"Carottes":{
+					"quantité": 7,
+					"prix": 0.35
+			}
+	},
+
+	"Épicerie": {
+			"Pates":{
+					"quantité": 2,
+					"prix": 1.5
+			},
+
+			"Pesto":{
+					"quantité": 1,
+					"prix": 4
+			}
+	},
+
+	"Divers": {
+			"Serviettes":{
+					"quantité": 100,
+					"prix": 0.05
+			},
+
+			"Lessive":{
+					"quantité": 1,
+					"prix": 10
+			}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"Fruits & Légumes": {
+			"Framboises":{
+					"quantité": 6,
+					"prix": 0.29
+				},
+
+			"Aubergines":{
+					"quantité": 2,
+					"prix": 2.1
+			}
+	},
+
+	"Épicerie": {
+			"Nutella":{
+				"quantité": 2,
+				"prix": 4.29
+			}
+	},
+
+	"Divers": {
+			"Balais":{
+				"quantité": 1,
+				"prix": 12.99
+			}
+	}
+}
